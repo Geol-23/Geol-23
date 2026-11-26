@@ -30,20 +30,20 @@ Most of my public work lives experimental workspaces (playgrounds) which contain
 
 | Repo | Language | Best for |
 |------------|----------|----------|
-| [**[playground-rust]**](https://github.com/[Geol-23]/[playground-rust]) | 🦀 Rust | systems-level experiments, performance, type-driven design |
-| [**[game-console-project]**](https://github.com/[Geol-23]/[game-console-project]) | C | bare metal programming, early days |
+| [**[playground-rust]**](https://github.com/Geol-23/playground-rust) | 🦀 Rust | systems-level experiments, performance, type-driven design |
+| [**[game-console-original]**](https://github.com/Geol-23/game-console-original) | C | bare metal programming, early days |
 <!--| [**[python-playground-repo]**](https://github.com/Geol-23/[python-playground-repo]) | 🐍 Python | [e.g. data work, automation, ML experiments, quick prototypes] |-->
 
 ### 🦀 Rust Playground
  
-A Cargo workspace where each crate is a project ([`argparse`](https://github.com/Geol-23/playground-rust/tree/main/crates/argparse), [`rng`](https://github.com/Geol-23/playground-rust/tree/main/crates/rng)) or a collection of utilities ([`datastructs`](https://github.com/Geol-23/playground-rust/tree/main/crates/datastructs), [`math`](https://github.com/Geol-23/playground-rust/tree/main/crates/math)).
+A Cargo workspace where each crate is a project ([`argparse`](https://github.com/Geol-23/playground-rust/tree/main/argparse), [`rng`](https://github.com/Geol-23/playground-rust/tree/main/rng)) or a collection of utilities ([`datastructs`](https://github.com/Geol-23/playground-rust/tree/main/datastructs), [`math`](https://github.com/Geol-23/playground-rust/tree/main/math)).
  
 | Crate | What it explores | Status |
 |-------|------------------|--------|
-| [`argparse`](https://github.com/Geol-23/playground-rust/tree/main/crates/argparse) | A python 'argparse' inspired crate | In progress |
-| [`datastructs`](https://github.com/Geol-23/playground-rust/tree/main/crates/datastructs) | Custom datastructure implementations:<br> - OrderedHashMap<br> - Table (for manipulating 2D data) | In progress |
-| [`math`](https://github.com/Geol-23/playground-rust/tree/main/crates/math) | My first introduction to rust | Early sketch |
-| [`rng`](https://github.com/Geol-23/playground-rust/tree/main/crates/rng) | Pseudo Random number generation and benchmarking frameworks | In progress |
+| [`argparse`](https://github.com/Geol-23/playground-rust/tree/main/argparse) | A python 'argparse' inspired crate | In progress |
+| [`datastructs`](https://github.com/Geol-23/playground-rust/tree/main/datastructs) | Custom datastructure implementations:<br> - OrderedHashMap<br> - Table (for manipulating 2D data) | In progress |
+| [`math`](https://github.com/Geol-23/playground-rust/tree/main/math) | My first introduction to rust | Early sketch |
+| [`rng`](https://github.com/Geol-23/playground-rust/tree/main/rng) | Pseudo Random number generation and benchmarking frameworks | In progress |
  
 ```bash
 git clone https://github.com/Geol-23/playground-rust.git
