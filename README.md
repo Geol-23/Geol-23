@@ -20,7 +20,7 @@ I'm a Graduate Mechatronics Engineer aspiring to become and embedded systems eng
 
 ---
 
-## 🦀 The Playgrounds
+## 🦀 My Profile
 
 Most of my public work lives experimental workspaces (playgrounds) which contain a collection of libraries. Some libraries are small and throwaway, others grow into something more serious.
 
@@ -28,9 +28,10 @@ Most of my public work lives experimental workspaces (playgrounds) which contain
 
 ### What's inside
 
-| Playground | Language | Best for |
+| Repo | Language | Best for |
 |------------|----------|----------|
-| [**[playground-rust]**](https://github.com/[Geol-23]/[playground-rust]) | 🦀 Rust | [e.g. systems-level experiments, performance, type-driven design] |
+| [**[playground-rust]**](https://github.com/[Geol-23]/[playground-rust]) | 🦀 Rust | systems-level experiments, performance, type-driven design |
+| [**[game-console-project]**](https://github.com/[Geol-23]/[game-console-project]) | C | bare metal programming, early days |
 <!--| [**[python-playground-repo]**](https://github.com/Geol-23/[python-playground-repo]) | 🐍 Python | [e.g. data work, automation, ML experiments, quick prototypes] |-->
 
 ### 🦀 Rust Playground
