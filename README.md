@@ -92,10 +92,3 @@ pytest                                              # run tests
 <p align="center">
   <sub>Thanks for stopping by! If something in the playground catches your eye, issues and ideas are welcome. 🦀</sub>
 </p>
-
-
----
-
-<p align="center">
-  <sub>Thanks for stopping by! If something in the playground catches your eye, issues and ideas are welcome. 🦀</sub>
-</p>
